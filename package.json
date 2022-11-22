@@ -1,0 +1,22 @@
+{
+  "name": "mempoollistener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shloyem/MemPoolListener.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Shloyem/MemPoolListener/issues"
+  },
+  "homepage": "https://github.com/Shloyem/MemPoolListener#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "5.7.2"
+  }
+}
